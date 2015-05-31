@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pablosanjuan.core" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Splash"
+            android:label="@string/title_activity_splash"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Main"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Fragment1"
+            android:label="@string/title_activity_fragment1"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Fragment2"
+            android:label="@string/title_activity_fragment1"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Fragment3"
+            android:label="@string/title_activity_fragment1"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Logueo"
+            android:label="@string/title_activity_logueo"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Fragment4"
+            android:label="@string/title_activity_fragment4"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Fragment5"
+            android:label="@string/title_activity_fragment5"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".IngresarBovino"
+            android:label="@string/title_activity_ingresar_bovino"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Registro"
+            android:label="@string/title_activity_registro"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".IngresarBovino2"
+            android:label="@string/title_activity_ingresar_bovino2"
+            android:screenOrientation="landscape">
+        </activity>
+    </application>
+
+</manifest>

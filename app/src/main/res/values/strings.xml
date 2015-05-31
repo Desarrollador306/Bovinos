@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Core</string>
+    <string name="title_section1">Inventario</string>
+    <string name="title_section2">Registro Reproductivo</string>
+    <string name="title_section3">Registro Productivo</string>
+    <string name="title_section4">Plan de Vacunacion</string>
+    <string name="title_section5">Control Sanitario</string>
+    <string name="title_section6">Registro de Manejo</string>
+    <string name="title_section7">Gesition de Praderas</string>
+    <string name="title_section8">Registro de Alimentacion</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fragment1">Fragment1</string>
+    <string name="Bovino">Modulo Bovino</string>
+    <string name="title_activity_splash">ModuloBovino</string>
+    <string name="title_activity_logueo">Logueo</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="title_activity_fragment4">Fragment4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_fragment5">Fragment5</string>
+    <string name="title_activity_ingresar_bovino">IngresarBovino</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="spinner_proposito">Proposito</string>
+    <string name="title_activity_ingresar_bovino2">IngresarBovino2</string>
+
+</resources>
