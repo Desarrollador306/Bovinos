@@ -2,4 +2,5 @@
 <resources>
     <item name="negro" type="color">#000000</item>
     <item name="blanco" type="color">#FFFFFF</item>
+    <item name="rojo" type="color">#FF0000</item>
 </resources>

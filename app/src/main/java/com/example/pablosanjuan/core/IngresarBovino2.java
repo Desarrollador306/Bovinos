@@ -67,8 +67,11 @@ public class IngresarBovino2 extends ActionBarActivity {
                     startActivity(ir_main);
                     finish();
                 }
+                break;
         }
     }
+
+
 
     public Boolean validar(String peso, String color, String raza, String idpadre, String idmadre) {
         if (peso.equals("") || color.equals("") || raza.equals("") || idpadre.equals("") || idmadre.equals("")) {
